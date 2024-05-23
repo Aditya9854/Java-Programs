@@ -5,7 +5,7 @@ public class demo{
         int a= 16;
         int b= 8;
 
-        System.out.println(a+b);
+        System.out.println( "sum is :"+ (a+b));
 
     }
 }
