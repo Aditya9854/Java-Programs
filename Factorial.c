@@ -12,11 +12,11 @@ int main()
     
     while (temp > 0)
     {
-        fact = fact * temp;
+        fact = fact*temp;
         temp--;
     }
     
-    printf("Factorial of given no is : %d ",fact);
+    printf("Factorial of given no is: %d ",fact);
 
     getch();
     return 0;
